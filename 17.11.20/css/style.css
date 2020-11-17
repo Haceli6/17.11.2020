@@ -1,0 +1,36 @@
+header{
+    background-image: url(../Image/bg-masthead.jpg);
+    min-height: 30rem;
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-text h1{
+    font-size: 6rem;
+    margin: 0px;
+    padding: 0;
+}
+.head-text{
+    text-align: center;
+    padding-top: 70px;
+}
+.head-text h3{
+    font-weight: 700px;
+    font-size: 2.65rem;
+}
+.head-text a{
+    padding: 20px 36px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.section h2{
+    font-size: 6rem;
+    margin: 0px;
+    padding: 0;
+}
